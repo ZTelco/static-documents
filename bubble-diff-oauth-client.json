@@ -1,0 +1,8 @@
+{
+  "client_id": "https://ztelco.github.io/static-documents/bubble-diff-oauth-client.json",
+  "client_name": "RingPlan Bubble Main change monitor",
+  "redirect_uris": ["http://127.0.0.1:8765/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
